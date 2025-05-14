@@ -26,8 +26,8 @@ To write a C Program to implement Dijkstra's Algorithm to find the shortest path
 ```
 /*
 Program to implement Dijkstra's Algorithm 
-Developed by: HARITHA RAMESH
-RegisterNumber:  212223100011
+Developed by: MADHAN BABAU P
+RegisterNumber:  212222230075
 */
 #include<stdio.h> 
 #defineINFINITY9999
